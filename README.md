@@ -34,7 +34,7 @@ o	Analyzed delay causes: Weather, signal failures, and technical issues contribu
 
 Live Dashboard- https://app.powerbi.com/view?r=eyJrIjoiY2JlMTg4ZjgtY2I5NC00ZWQ1LWE2MmUtNDg3Y2RhNmJmZjliIiwidCI6IjdjYWI2MjRmLTM4YzYtNDQ2MS1hYWIzLThjNmYxZmUwODZlYyJ9
 
-![UK Train Rides Overview](https://github.com/pawansukheja/UK-Train-Rides-PowerBI/assets/163865690/315eb8df-6d22-428f-b667-4c06fe19a0a9
+![UK Train Rides Overview](https://github.com/pawansukheja/UK-Train-Rides-PowerBI/assets/163865690/f934de9c-dc80-464f-bfc0-31bdbf317c33)
 
 ![UK Train Rides Stations](https://github.com/pawansukheja/UK-Train-Rides-PowerBI/assets/163865690/14337824-56a6-4ebe-b6ec-65553dcf38e5)
 
