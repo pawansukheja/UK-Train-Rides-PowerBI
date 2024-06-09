@@ -29,8 +29,7 @@ o	Analyzed delay causes: Weather, signal failures, and technical issues contribu
 7.	Enhance Communication: Keep passengers informed of delays and ensure satisfaction.
 8.	Expand Network Reach: Explore new routes and adjust frequencies to meet evolving travel needs.
 9.	Targeted Marketing: Launch strategic campaigns to drive awareness and boost ticket sales.
-This project provided valuable insights and actionable recommendations to enhance the UK's rail travel experience. A big thank you to Maven Analytics for their support throughout this project.
-I'm thrilled to leverage these data analysis skills in future endeavors
+    
 
 
 Live Dashboard- https://app.powerbi.com/view?r=eyJrIjoiY2JlMTg4ZjgtY2I5NC00ZWQ1LWE2MmUtNDg3Y2RhNmJmZjliIiwidCI6IjdjYWI2MjRmLTM4YzYtNDQ2MS1hYWIzLThjNmYxZmUwODZlYyJ9
